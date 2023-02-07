@@ -20,7 +20,7 @@ const metaConfig = {
   title: "Dev YK",
   description: `YK's Blog`,
   author: "YK",
-  siteUrl: "https://gatsby-starter-apple.netlify.app",
+  siteUrl: "https://shyroad.github.io",
   lang: "en",
   utterances: "sungik-choi/gatsby-starter-apple-comment",
   links: {
